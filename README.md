@@ -1,4 +1,4 @@
 # Alok-demo
 this is my demo repository
 <br>
-Auther  - Alok Kumar
+Auther  - Alok Kumar(Sharma)
